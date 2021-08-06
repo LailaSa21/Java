@@ -1,0 +1,3 @@
+Game 1: Lost 
+Game 2: Won on Roll #1 with Die #1=3 and Die #2=3 
+Game 3: Lost 
